@@ -10,4 +10,4 @@
 
 • 🌱 Currently learning Python.
 
-<img src="https://raw.githubusercontent.com/blackern/blackern/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/blackern/blackern/output/snake.svg" alt="Snake animation"/>
