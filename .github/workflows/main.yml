@@ -3,14 +3,14 @@ name: Generate snake animation
 on:
   schedule: # execute every 12 hours
     
-cron: "* /12 * *",
+cron: "* /12 * *"
 
   workflow_dispatch:
 
   push:
     branches:
     
-master,
+master
 
 jobs:
   generate:
@@ -25,7 +25,7 @@ name: generate snake.svg
       uses: Platane/snk/svg-only@v3
       with:
         github_user_name: blackern
-        outputs: dist/snake.svg?palette=github-dark,
+        outputs: dist/snake.svg?palette=github-dark
 
 
       
