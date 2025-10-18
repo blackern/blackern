@@ -9,3 +9,5 @@
 • 📖 Interested in tech, coding, and always learning.
 
 • 🌱 Currently learning Python.
+
+![snake animation](https://github.com/blackern/blackern/blob/output/github-contribution-grid-snake2.svg)
