@@ -10,4 +10,4 @@
 
 • 🌱 Currently learning Python.
 
-![snake animation](https://github.com/blackern/blackern/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/blackern/blackern/output/snake.svg" alt="Snake animation" />
